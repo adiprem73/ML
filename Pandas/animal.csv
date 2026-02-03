@@ -1,0 +1,5 @@
+AnimalID,Animal,Species,Habitat,Average_Lifespan_Years,Weight_kg,Is_Endangered
+1,Lion,Mammal,Savannah,14,190,Yes
+2,Elephant,Mammal,Forest,60,5400,Yes
+3,Parrot,Bird,Rainforest,50,1.2,No
+4,Shark,Fish,Ocean,30,1100,No
